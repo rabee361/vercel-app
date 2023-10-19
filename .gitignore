@@ -1,0 +1,3 @@
+vercelenv
+db.sqlite3
+.env
